@@ -1,4 +1,4 @@
-# Hello,from kkinzzza!👋
+# Hello from kkinzzza!👋
 
 ## 👨‍💻 **Who am I?**
 
@@ -23,21 +23,21 @@ By the way, I'm working as a DS/ML engineer-intern at **YADRO AI Team**.
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=white&link=https%3A%2F%2Fwww.python.org)
-![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=white&link=https%3A%2F%2Fpytorch.org)
-![Static Badge](https://img.shields.io/badge/sklearn-%23F7931E?style=for-the-badge&logo=scikit-learn&labelColor=white&link=https%3A%2F%2Fscikit-learn.org%2Fstable%2Findex.html)
-![Static Badge](https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=white&link=https%3A%2F%2Fopencv.org%2F)
-![Static Badge](https://img.shields.io/badge/yolo-%23111F68?style=for-the-badge&logo=yolo&logoColor=111f68&labelColor=white&link=https%3A%2F%2Fdocs.ultralytics.com)
-![Static Badge](https://img.shields.io/badge/optuna-%23002C76?style=for-the-badge&logo=optuna&logoColor=%23002C76&labelColor=white&link=https%3A%2F%2Foptuna.org%2F)
-![Static Badge](https://img.shields.io/badge/conda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=%2344A833&labelColor=white)
+[![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=white&link=https%3A%2F%2Fwww.python.org)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=white&link=https%3A%2F%2Fpytorch.org)](https://pytorch.org/)
+[![Static Badge](https://img.shields.io/badge/sklearn-%23F7931E?style=for-the-badge&logo=scikit-learn&labelColor=white&link=https%3A%2F%2Fscikit-learn.org%2Fstable%2Findex.html)](https://scikit-learn.org/stable/index.html)
+[![Static Badge](https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=white&link=https%3A%2F%2Fopencv.org%2F)](https://opencv.org/)
+[![Static Badge](https://img.shields.io/badge/yolo-%23111F68?style=for-the-badge&logo=yolo&logoColor=111f68&labelColor=white&link=https%3A%2F%2Fdocs.ultralytics.com)](https://docs.ultralytics.com/)
+[![Static Badge](https://img.shields.io/badge/optuna-%23002C76?style=for-the-badge&logo=optuna&logoColor=%23002C76&labelColor=white&link=https%3A%2F%2Foptuna.org%2F)](https://optuna.org/)
+[![Static Badge](https://img.shields.io/badge/conda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=%2344A833&labelColor=white)](https://anaconda.org/main/conda)
 
-![Static Badge](https://img.shields.io/badge/Statistics-060330?style=for-the-badge&logo=sagemath&logoColor=060330&labelColor=white)
-![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=white&link=https%3A%2F%2Fnumpy.org%2F)
-![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=%238CAAE6&labelColor=white&link=https%3A%2F%2Fscipy.org%2F)
-![Static Badge](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=%237A76FF&labelColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)
-![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=white)
-![Static Badge](https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=white)
+[![Static Badge](https://img.shields.io/badge/Statistics-060330?style=for-the-badge&logo=sagemath&logoColor=060330&labelColor=white)](https://en.wikipedia.org/wiki/Mathematical_statistics?ysclid=mh5j1lvol684065974)
+[![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=white&link=https%3A%2F%2Fnumpy.org%2F)](https://numpy.org/)
+[![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=%238CAAE6&labelColor=white&link=https%3A%2F%2Fscipy.org%2F)](https://scipy.org/)
+[![Static Badge](https://img.shields.io/badge/plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=%237A76FF&labelColor=white&link=https%3A%2F%2Fplotly.com%2Fpython%2F)](https://plotly.com/python/)
+[![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23F37626&labelColor=white)](https://jupyter.org/)
+[![Static Badge](https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&labelColor=white)](https://colab.research.google.com)
+[![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=white)](https://git-scm.com/)
 
 </div>
 
@@ -57,12 +57,12 @@ By the way, I'm working as a DS/ML engineer-intern at **YADRO AI Team**.
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=white&link=https%3A%2F%2Ft.me%2Fdjinja) $\quad$
-![Static Badge](https://img.shields.io/badge/vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%230077FF&labelColor=white&link=https%3A%2F%2Fvk.com%2Fdjinja) $\quad$
-![Static Badge](https://img.shields.io/badge/email-%23004788?style=for-the-badge&logo=mail.ru&logoColor=%23004788&labelColor=white&link=mailto%3Adjinja%40vk.com)
+[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=white&link=https%3A%2F%2Ft.me%2Fdjinja)](https://t.me/djinja) $\quad$
+[![Static Badge](https://img.shields.io/badge/vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%230077FF&labelColor=white&link=https%3A%2F%2Fvk.com%2Fdjinja)](https://vk.com/djinja) $\quad$
+[![Static Badge](https://img.shields.io/badge/email-%23004788?style=for-the-badge&logo=mail.ru&logoColor=%23004788&labelColor=white&link=mailto%3Adjinja%40vk.com)](mailto:djinja@vk.com)
 
-![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fkkinzzza) $\quad$
-![Static Badge](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fkkinza)
+[![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fkkinzzza)](https://github.com/kkinzzza) $\quad$
+[![Static Badge](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fkkinza)](https://www.kaggle.com/kkinza)
 
 
 </div>
