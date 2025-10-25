@@ -6,7 +6,7 @@ My name is **Kirill Dzhenzherukha**, and I'm a student of the ITMO University (S
 
 Now I'm educating on the program **Robotics and Artificial Intelligence** as a 4th-year bachelor student, and I'm really interested in all parts of studying which are connected with machine learning, data science etc.
 
-By the way, I'm working as a DS/ML engineer-intern at **YADRO AI Team**.
+By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
 ## 🔍 **Professional Interests**
 
