@@ -1,6 +1,6 @@
 # 👋 Hello from kkinzzza!
 
-## 👨‍💻 **Who am I?**
+## 👨‍💻 Who am I?
 
 My name is **Kirill Dzhenzherukha**, and I'm a student of the ITMO University (St. Petersburg, Russia).
 
@@ -8,7 +8,7 @@ Now I'm educating on the program **Robotics and Artificial Intelligence** as a 4
 
 By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
-## 🔍 **Professional Interests**
+## 🔍 Professional Interests
 
 <div align="center">
   
@@ -19,7 +19,7 @@ By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
 </div>
 
-## 🛠 **Technical Toolkit:**
+## 🛠 Hardskills
 
 <div align="center">
 
@@ -41,9 +41,10 @@ By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
 </div>
 
-## 🎓 Experience
+## 🎓 Work & Projects Experience
 
-- **ML/CV Engineer internships & uni practices**;
+- **RnD in DS/ML in YADRO AI Team**;
+- **ML/CV internships & uni practices**;
 - **Kaggle Competitions**:
     - Wind Turbines Damages & Defects Recognition (methods of object detection & classification);
     - Morse Code Recognition (methods of audio analysis and patterns recognition);
