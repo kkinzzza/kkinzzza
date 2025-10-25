@@ -12,9 +12,9 @@ By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/Object%20Detection%20-%20%234A90E2?style=for-the-badge) $\quad$
-![Static Badge](https://img.shields.io/badge/Anomaly%20Detection%20-%20%23D43F3F?style=for-the-badge) $\quad$
-![Static Badge](https://img.shields.io/badge/Reinforcement%20Learning%20-%20%238A2BE2?style=for-the-badge) $\quad$
+![Static Badge](https://img.shields.io/badge/Object%20Detection%20-%20%234A90E2?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Anomaly%20Detection%20-%20%23D43F3F?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Reinforcement%20Learning%20-%20%238A2BE2?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Data%20Science%20&%20Analysis%20-%20%23002266?style=for-the-badge)
 
 </div>
@@ -57,11 +57,11 @@ By the way, I'm working as a DS/ML engineer-intern in **YADRO AI Team**.
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=white&link=https%3A%2F%2Ft.me%2Fdjinja)](https://t.me/djinja) $\quad$
-[![Static Badge](https://img.shields.io/badge/vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%230077FF&labelColor=white&link=https%3A%2F%2Fvk.com%2Fdjinja)](https://vk.com/djinja) $\quad$
+[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=white&link=https%3A%2F%2Ft.me%2Fdjinja)](https://t.me/djinja)
+[![Static Badge](https://img.shields.io/badge/vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%230077FF&labelColor=white&link=https%3A%2F%2Fvk.com%2Fdjinja)](https://vk.com/djinja)
 [![Static Badge](https://img.shields.io/badge/email-%23004788?style=for-the-badge&logo=mail.ru&logoColor=%23004788&labelColor=white&link=mailto%3Adjinja%40vk.com)](mailto:djinja@vk.com)
 
-[![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fkkinzzza)](https://github.com/kkinzzza) $\quad$
+[![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fkkinzzza)](https://github.com/kkinzzza)
 [![Static Badge](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fkkinza)](https://www.kaggle.com/kkinza)
 
 
