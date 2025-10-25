@@ -1,4 +1,4 @@
-# Hello from kkinzzza!👋
+# 👋 Hello from kkinzzza!
 
 ## 👨‍💻 **Who am I?**
 
@@ -41,7 +41,7 @@ By the way, I'm working as a DS/ML engineer-intern at **YADRO AI Team**.
 
 </div>
 
-## Experience
+## 🎓 Experience
 
 - **ML/CV Engineer internships & uni practices**;
 - **Kaggle Competitions**:
@@ -53,7 +53,7 @@ By the way, I'm working as a DS/ML engineer-intern at **YADRO AI Team**.
     - Atomic Hack 2024 (methods of visual classification for defining anomalies types of welded seams);
     - *to be continued...*
 
-## 🔗 **Contacts and Links**
+## 📨 **Contacts and Links**
 
 <div align="center">
 
